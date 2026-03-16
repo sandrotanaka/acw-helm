@@ -11,3 +11,4 @@ spec:
   name: grafana-operator
   source: operatorhubio-catalog
   sourceNamespace: olm
+  startingCSV: grafana-operator.v5.21.2
